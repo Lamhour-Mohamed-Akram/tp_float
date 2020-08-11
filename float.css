@@ -1,0 +1,50 @@
+.d2{    
+height:300px;
+width: 300px;
+background-color: green;
+float: left;
+margin-top: 185px;
+margin-left: 10px;
+
+}
+.d3{
+    height:150px;
+    width: 200px;
+    background-color: red;
+    float: left;
+    margin-top: 250px;
+    margin-left: 10px;
+
+}
+.d4{
+    height:150px;
+    width: 200px;
+    background-color: red ;
+    float: left;
+    margin-top: 250px;
+    margin-left: 10px;
+
+}
+.d5{
+    height:150px;
+    width: 200px;
+    background-color: red ;
+    float: left;
+    margin-top: 250px;
+    margin-left: 10px;
+
+}
+.d6{
+    height:150px;
+    width: 200px;
+    background-color: red;
+    float: left;
+    margin-top: 250px;
+    margin-left: 10px;
+}
+
+.d1{
+    background-color: rgb(252, 252, 159);
+    height:1000px;
+    width: 10000px;
+}
